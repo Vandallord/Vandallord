@@ -7,3 +7,5 @@ Here are some stats on my GitHub:
 ![GitHub metrics](https://metrics.lecoq.io/vandallord)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vandallord) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandallord&layout=compact)
